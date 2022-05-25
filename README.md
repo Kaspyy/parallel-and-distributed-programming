@@ -5,4 +5,5 @@ Minor projects made as part of parallel-and-distributed-programming classes at C
 
 ## Technologies
 * C
+* Java
 * Ubuntu 20.04
