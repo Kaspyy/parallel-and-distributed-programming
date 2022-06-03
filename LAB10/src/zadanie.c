@@ -4,7 +4,7 @@
 #include <string.h>
 #include "mpi.h"
 
-#define LICZBA_PAKIETOW 1000
+#define LICZBA_PAKIETOW 10000
 
 // skutruktura studenta
 struct student
